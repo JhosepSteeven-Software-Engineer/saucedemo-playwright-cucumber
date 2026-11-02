@@ -1,5 +1,7 @@
 # Sauce Demo - Automatización E2E con Playwright y Cucumber
 
+[![E2E Tests](https://github.com/JhosepSteeven-Software-Engineer/saucedemo-playwright-cucumber/actions/workflows/e2e.yml/badge.svg)](https://github.com/JhosepSteeven-Software-Engineer/saucedemo-playwright-cucumber/actions/workflows/e2e.yml)
+
 Suite de pruebas automatizadas para [Sauce Demo](https://www.saucedemo.com/) desarrollada con
 **Playwright**, **Cucumber** y **TypeScript**, aplicando **Page Object Model (POM)**, hooks,
 World y datos de prueba externalizados.
